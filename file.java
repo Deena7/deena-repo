@@ -28,3 +28,5 @@ public class GFG {
             (k, v) -> System.out.println("Key : " + k + ", Value : " + v));
     }
 }
+
+updated line
